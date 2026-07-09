@@ -190,7 +190,7 @@ MIT License - Open source project
 
 ## 👨‍💻 Developer
 
-**KS22-bot** - Game Development Learning Project
+**404KS** - Game Development Learning Project
 
 ---
 
